@@ -1,0 +1,9 @@
+﻿earlyops_env/
+node_modules/
+dist/
+__pycache__/
+*.pyc
+*.log
+data/
+backend/train/
+.env

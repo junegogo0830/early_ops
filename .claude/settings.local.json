@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(py -3.12 -c \"import easyocr; print\\('OK'\\)\" 2>&1)",
+      "PowerShell(& \"c:\\\\Users\\\\juneg\\\\Desktop\\\\deeptech\\\\early_ops\\\\earlyops_env\\\\Scripts\\\\python.exe\" -c \"import sys; print\\(sys.executable\\)\")",
+      "PowerShell(& \"c:\\\\Users\\\\juneg\\\\Desktop\\\\deeptech\\\\early_ops\\\\earlyops_env\\\\Scripts\\\\python.exe\" -c \"import paddleocr; print\\('paddleocr OK'\\)\")",
+      "PowerShell(& \"C:\\\\Users\\\\juneg\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\\\\python.exe\" -c \"import paddleocr; print\\('paddleocr OK'\\)\" 2>&1)"
+    ]
+  }
+}
